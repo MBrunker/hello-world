@@ -1,2 +1,2 @@
 # hello-world
-Learning the GitHub ropes
+I'm a journalist learning the GitHub ropes in hopes that I can use Chartbuilder.
